@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Viennese Bend Transition Segment" UniqueId="48d363f4-e6a7-4b02-9ddd-af9b44fb50ce" Type="IfcCurveSegment">
+<DocTemplateDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Viennese_Bend_Transition_Segment_18qsFqvgTB0ftThvj4_r3E" Name="Viennese Bend Transition Segment" UniqueId="48d363f4-e6a7-4b02-9ddd-af9b44fb50ce" Type="IfcCurveSegment">
 	<Rules>
 		<DocModelRuleAttribute Name="ParentCurve">
 			<Rules>

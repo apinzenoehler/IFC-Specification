@@ -3,11 +3,11 @@
 	<Constants>
 		<DocConstant xsi:nil="true" href="CONSTANTCANT_293sF9bKzF58CtLOqiX9A" />
 		<DocConstant xsi:nil="true" href="LINEARTRANSITION_0_mNESnIj88wTzLNr1a61" />
-		<DocConstant xsi:nil="true" href="HELMERTCURVE_14V3RUc6LFh9bZo1rEFhxL" />
-		<DocConstant xsi:nil="true" href="BLOSSCURVE_2PSkBIAo5DrBxM4nxjUkwb" />
-		<DocConstant xsi:nil="true" href="COSINECURVE_2W5nZgIcb2KQ4HeuKdSDO" />
-		<DocConstant xsi:nil="true" href="SINECURVE_33lTdYQrv7DB7H9wXvDAvN" />
-		<DocConstant xsi:nil="true" href="VIENNESEBEND_1wHLHEhpb2GhA0VAasbHUK" />
+		<DocConstant xsi:nil="true" href="VIENNESEBENDCANT_2Z8G0iUzb0sQDw_7tEcwv" />
+		<DocConstant xsi:nil="true" href="SINECURVECANT_3jBKjsnmX4QA73Bh_qTnj0" />
+		<DocConstant xsi:nil="true" href="HELMERTCURVECANT_1qak5zKIL9hepxekxNx60" />
+		<DocConstant xsi:nil="true" href="BLOSSCURVECANT_0hYbIcTB5DJhg8TxL3hntC" />
+		<DocConstant xsi:nil="true" href="COSINECURVECANT_1EPwu89RnE2wALkEQYGUK" />
 	</Constants>
 </DocEnumeration>
 

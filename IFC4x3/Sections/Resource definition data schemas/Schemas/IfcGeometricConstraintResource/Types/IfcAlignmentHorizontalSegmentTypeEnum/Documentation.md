@@ -1,11 +1,3 @@
-<style>
-td {
-  font-size: small
-}
-th {
-  font-size: small
-}
-</style>
 
 The IfcAlignmentHorizontalSegmentTypeEnum indicates the type of a segment of a horizontal alignment segment (IfcAlignmentHorizontalSegment). Horizontal segments can be viewed from a geometric perspective and from a kinematic perspective. In recent times the kinematic perspective gained importance. The enumerations are detailed according to this development especially in modern track design.
 
@@ -55,6 +47,7 @@ Check the relevant regulations for the network in question. Alignment designs as
 | &xi;  |  = s / L  (Greek "xi") standardised, dimensionless path length along the alignment / track centre line        | 0 < &xi; < 1 |
 |  &kappa; | (Greek "kappa") Curvature (inverse radius) of the alignment / track centre line in plan view (horizontal layout).        | 1/radius  |
 | &kappa;<sub>1</sub> | Curvature (inverse radius) at beginning of the alignment / track centre line in plan view (horizontal layout).        | 1/radius  |
+| h | height of the gravity center line used for calculation above the track centreline in the ground plan.  | length |
 | &psi; | (Greek "psi") Angle of cant (cross slope angle, bank angle)        | rad |
 | &phi; | (Greek "phi") Directional angle (azimuth, bearing)  | rad |
 | x(s) | variable longitudinal coordinate of the projection of the alignment / track centreline into the ground plan.  | length |

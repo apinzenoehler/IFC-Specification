@@ -1,11 +1,3 @@
-<style>
-td {
-  font-size: small
-}
-th {
-  font-size: small
-}
-</style>
 
 The IfcAlignmentHorizontalSegmentTypeEnum indicates the type of a segment of a horizontal alignment segment (IfcAlignmentHorizontalSegment). Horizontal segments can be viewed from a geometric perspective and from a kinematic perspective. In recent times the kinematic perspective gained importance. The enumerations are detailed according to this development especially in modern track design.
 
